@@ -1,0 +1,6 @@
+#n = int(input('Digite um numero'))
+#s = (n + 1)
+#a = (n - 1)
+#print('{}, seu sucessor e {}, e seu antecessor {}' .format(n, s, a))
+n = int(input('Digite um numero'))
+print('analisando {}, seu sucessor e {}, e seu antecessor e {}' .format(n, (n+1), (n-1)))
