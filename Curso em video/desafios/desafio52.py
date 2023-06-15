@@ -12,3 +12,4 @@ if tot == 2:
     print('E por isso ele é primo.')
 else:
     print('E por isso ele não é primo.')
+
